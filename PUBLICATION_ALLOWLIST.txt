@@ -651,3 +651,4 @@ wine/patches/0952-ntoskrnl-ps5-host-the-hid-drivers-in-the-game.patch
 wine/patches/0953-winebus-wow64-thunks-for-a-hosted-32-bit-game.patch
 wine/patches/0954-setupapi-ps5-write-services-without-a-service-manager.patch
 wine/patches/0955-wow64win-convert-the-input-of-send-hardware-input.patch
+wine/patches/0958-ntdll-honor-wine-cpu-topology-s-processor-count.patch
