@@ -744,3 +744,4 @@ tests/test_wine_alert_kqueue.py
 wine/patches/0985-win32u-ps5-report-the-120-hz-output-rate.patch
 wine/patches/0987-ntdll-report-hot-writes-only-beside-a-read-only-data-page.patch
 wine/patches/0988-ntdll-let-the-kernel-write-a-page-beside-a-protected-one.patch
+wine/patches/0989-ntdll-report-hot-writes-beside-a-read-only-page-only-on-request.patch
