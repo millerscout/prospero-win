@@ -8,6 +8,7 @@ docs/DEBUGGING_GUIDE.md
 docs/HARDWARE_VALIDATION.md
 docs/WINE_INTEGRATION.md
 docs/WINE_PS5_BUILD.md
+docs/xinput-dev-kit.md
 docs/README.md
 docs/ROADMAP.md
 docs/TELEMETRY.md
